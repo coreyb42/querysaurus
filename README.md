@@ -39,13 +39,11 @@ If you're new to this stuff, the suggested order is:
 
 # Further Reading and Links
 
-* https://python.langchain.com/docs/guides/local_llms
-* https://python.langchain.com/docs/use_cases/question_answering/how_to/local_retrieval_qa
-* https://python.langchain.com/docs/use_cases/question_answering/how_to/chat_vector_db
-* https://python.langchain.com/docs/integrations/chat/ollama
-* https://python.langchain.com/docs/use_cases/code_understanding
-* https://cloud.google.com/vertex-ai/docs/generative-ai/learn/introduction-prompt-design
-* https://integrations.langchain.com/
-* https://youtu.be/K0S0OwzCwZs
-* https://www.youtube.com/watch?v=Vy3qGGJRmm4
-* https://www.youtube.com/watch?v=_iSrcbqIzmM
+* [Local LLMs with LangChain](https://python.langchain.com/docs/guides/local_llms) - an overview of using local LLMs with LangChain
+* [Local retrieval QA](https://python.langchain.com/docs/use_cases/question_answering/how_to/local_retrieval_qa) - more info about what we're doing here with RAG
+* [Long term chat memory](https://python.langchain.com/docs/use_cases/question_answering/how_to/chat_vector_db) - using a vector database to implement long term chat memory
+* [Ollama Langchain integration](https://python.langchain.com/docs/integrations/chat/ollama)
+* [Code understanding with LangChain](https://python.langchain.com/docs/use_cases/code_understanding) - using an LLM to analyze and work with your code
+* [Introduction to prompt design](https://cloud.google.com/vertex-ai/docs/generative-ai/learn/introduction-prompt-design) - from Google, but applicable to any LLM
+* [LangChain integrations](https://integrations.langchain.com/) - LangChain works with many LLMs, vector databases, other data retrieval sources, and can ingest data from many sources
+* [Sentient Silo demo](https://youtu.be/K0S0OwzCwZs) - a demo of some more advanced capabilities in an upcoming side project
