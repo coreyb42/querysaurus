@@ -27,6 +27,16 @@ You need some way to run a local LLM, or you'll need to use a third party LLM su
 * Run `jupyter lab`
 * Open a browser to localhost:8888
 
+# The Notebooks
+
+If you're new to this stuff, the suggested order is:
+
+* LLMs
+* Prompting
+* Embeddings
+* Vector Databases
+* Retrieval Augmented Generation (RAG)
+
 # Further Reading and Links
 
 * https://python.langchain.com/docs/guides/local_llms
@@ -34,7 +44,6 @@ You need some way to run a local LLM, or you'll need to use a third party LLM su
 * https://python.langchain.com/docs/use_cases/question_answering/how_to/chat_vector_db
 * https://python.langchain.com/docs/integrations/chat/ollama
 * https://python.langchain.com/docs/use_cases/code_understanding
-* https://en.wikipedia.org/wiki/Cambrian_explosion
 * https://cloud.google.com/vertex-ai/docs/generative-ai/learn/introduction-prompt-design
 * https://integrations.langchain.com/
 * https://youtu.be/K0S0OwzCwZs
